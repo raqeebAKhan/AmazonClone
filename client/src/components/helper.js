@@ -1,0 +1,1 @@
+export const BASE_URL = "https://mernbackend-dnf8.onrender.com";
