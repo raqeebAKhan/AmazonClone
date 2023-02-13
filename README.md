@@ -39,7 +39,7 @@ This website is Amazon E-Commerce Website.
 <img src=images/Signin_details.png height="500px"/>
 <br/><br/>
 
-<img src=images/Login_Success.png height="500px"/>
+<img src=images/Loginsuccess_page.png height="500px"/>
 <br/><br/>
 
 <img src=images/cart_page1.png height="500px"/>
