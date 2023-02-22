@@ -1,5 +1,5 @@
-# Amazon E-Commerce Website
-This website is Amazon E-Commerce Website.
+# Full Stack E-Commerce Website
+This website is Full Stack E-Commerce Website.
 
 ## Features
 * It consist of user authentication.
